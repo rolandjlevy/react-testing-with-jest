@@ -1,7 +1,8 @@
 # Testing with Jest in React
 
-### See Jest tutorial
+### Jest tutorials
 - https://jestjs.io/docs/tutorial-react
+- https://www.smashingmagazine.com/2020/07/react-apps-testing-library/
 
 ### Launch the test runner
 
