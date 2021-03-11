@@ -3,6 +3,7 @@
 ### Jest tutorials
 - https://jestjs.io/docs/tutorial-react
 - https://www.smashingmagazine.com/2020/07/react-apps-testing-library/
+- http://constructorlabs-syllabus.herokuapp.com/testing-react/
 
 ### Launch the test runner
 
